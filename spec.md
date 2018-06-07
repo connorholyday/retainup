@@ -1,0 +1,22 @@
+- Project list
+- Git repo link
+    - Commits behind notifier
+- Up-to-date indicator
+- Last updated
+- Next check
+- Version info
+- Open in
+    - Finder
+    - Editor
+    - Terminal
+- URLS
+    - Local
+    - Staging
+    - Live
+- Notes
+- Docker up
+- Update ACF
+- Update plugins
+- Deploy
+    - Ansible
+    - Capistrano
