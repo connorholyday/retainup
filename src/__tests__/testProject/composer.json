@@ -1,0 +1,16 @@
+{
+    "name": "rareloop/primer",
+    "minimum-stability": "stable",
+    "license": "MIT",
+
+    "require": {
+        "php": ">=5.5.9",
+        "rareloop/primer-core": "2.0.*",
+        "rareloop/primer-template-engine-handlebars": "1.0.*",
+        "altorouter/altorouter": "1.1.0"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    }
+}
