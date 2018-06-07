@@ -1,3 +1,5 @@
+# Retainup
+## Spec
 - Desktop App
 - Project list
 - Git repo link
@@ -25,3 +27,23 @@
     - Capistrano
 - Notifications
 - Terminal output for commands
+
+## Happy Path
+### No Projects
+- Empty state:
+    - Open folder button
+    - Drag folder
+- Project checks:
+    - Get project name
+    - Parse composer.json:
+        - WordPress version
+        - Private repo names with versions
+        - Dependency versions
+    - Check if git is up to date
+### With Projects
+- Display list of projects
+- Projects show:
+    - Name
+    - Up to date indicator
+    - Next check date
+    - Open button
