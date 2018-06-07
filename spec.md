@@ -1,3 +1,4 @@
+- Desktop App
 - Project list
 - Git repo link
     - Commits behind notifier
@@ -15,8 +16,12 @@
     - Live
 - Notes
 - Docker up
-- Update ACF
-- Update plugins
+- Updates
+    - WordPress
+    - ACF
+    - Plugins
 - Deploy
     - Ansible
     - Capistrano
+- Notifications
+- Terminal output for commands
